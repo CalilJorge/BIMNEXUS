@@ -1,0 +1,4 @@
+Scripts exatamente como foram usados e registrados no Relatório de Entrega (seção 2).
+Rodar a partir da raiz do repositório, com: pip install -r requirements-ifc.txt
+Ordem: explore.py, explore2.py, extract.py (gera data/elementos_ifc.csv), mesh.py, kpis.py.
+O app usa o pipeline em src/ifc_pipeline.py (versão consolidada destes scripts).

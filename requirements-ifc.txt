@@ -1,0 +1,4 @@
+# Necessário só para gerar/atualizar os dados a partir de um IFC (scripts/build_data.py)
+# ou para habilitar o upload de IFC dentro do app.
+-r requirements.txt
+ifcopenshell>=0.8
